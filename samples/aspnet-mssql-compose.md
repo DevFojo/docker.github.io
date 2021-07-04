@@ -186,7 +186,7 @@ configure this app to use our SQL Server database, and then create a
     mapped it to port 8000 in the `docker-compose.yml`.
 
     ```bash
-    $ docker-compose up
+    $ docker compose up
     ```
 
     Go ahead and try out the website! This sample uses the SQL Server
